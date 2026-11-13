@@ -1,24 +1,29 @@
 # Titanic Dataset Analysis
+# Coding Samurai Data Science Internship
 
-## About the Project
-This project analyzes the Titanic dataset as part of the Coding Samurai Data Science Internship.
+This repository contains my Data Science projects completed as part of the Coding Samurai Internship.
 
-## Objectives
-- Explore the Titanic dataset using Python and Pandas.
-- Identify and handle missing values.
-- Calculate statistical measures such as mean, median, and variance.
-- Analyze passenger survival by gender and passenger class.
-- Create graphs and visualizations to understand the data.
+## Project 1: Titanic Dataset Analysis (EDA)
+- Data exploration using Pandas
+- Missing value analysis
+- Statistical analysis
+- Data visualization using Matplotlib and Seaborn
+
+## Project 2: Titanic Survival Prediction
+- Data preprocessing
+- Feature engineering
+- Logistic Regression
+- Decision Tree Classifier
+- Model evaluation using accuracy and confusion matrix
 
 ## Technologies Used
 - Python
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
+- Scikit-learn
 - Jupyter Notebook
 
-## Project File
-- `Titanic_Dataset_Analysis.ipynb` — contains the analysis, calculations, and visualizations.
-
-## Conclusion
-This project helped me learn Exploratory Data Analysis (EDA), data cleaning, statistical analysis, and data visualization using Python.
+## Author
+Data Science Intern – Coding Samurai
